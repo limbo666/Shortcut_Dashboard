@@ -49,7 +49,7 @@ Shortcut Dashboard is a PowerShell script that creates a customizable, user-frie
 
 ## Author
 
-© Hand Water Pump - Nikos Geogousis
+© Hand Water Pump - Nikos Georgousis
 
 ## License
 
